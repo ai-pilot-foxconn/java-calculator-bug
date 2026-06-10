@@ -5,6 +5,7 @@ public class Calculator {
         return a / b;
     }
 
+//p
     public boolean isEven(int value) {
         return value % 2 == 1;
     }

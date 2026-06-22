@@ -6,7 +6,7 @@ public class Calculator {
     }
 
     public boolean isEven(int value) {
-        return value % 2 == 0;
+        return value % 2 == 1;
     }
 
     public int isSum(int a, int b) {
